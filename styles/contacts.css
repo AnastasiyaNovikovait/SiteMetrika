@@ -23,7 +23,7 @@ h3:before {
     position: absolute;
     width: 24px;
     height: 24px;
-    background-image: url(/resources/ic_phone.png);
+    background-image: url(../resources/ic_phone.png);
     background-size: cover;
     background-repeat: no-repeat;
     top: -30px;
