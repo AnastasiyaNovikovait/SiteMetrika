@@ -1,0 +1,53 @@
+
+.description {
+    width: 1150px;
+    height: 518px;
+    margin: 0 auto 150px;
+    color: #121212;
+
+    
+ 
+}
+
+.description_about {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.54px;
+    margin-bottom: 30px;
+}
+
+.description_text {
+    width: 1048px;
+    height: 366px;
+
+    font-size: 45px;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1.35px;
+    color: #121212;
+
+    box-sizing: border-box;
+
+    margin-bottom: 30px;
+    
+    
+}
+
+.description_btn {
+    width: 255px;
+    height: 67px;
+    font-weight: 400;
+    font-size: 20px;
+    letter-spacing: -0.6px;
+    
+    display: block;
+    text-align: center;
+    line-height: 60px;
+    text-decoration: none;
+    background-color: #AD1818;
+    color: aliceblue;
+    border-radius: 5px;
+   
+    
+}

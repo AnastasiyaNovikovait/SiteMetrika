@@ -1,0 +1,41 @@
+.menu-blacksection {
+    width: 1440px;
+    background-color: #121212;
+    padding-top: 60px;
+    
+    
+}
+.menu-container {
+    margin: 0 auto;
+    width: 458px;
+}
+
+.menu_link {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.54px;
+    text-decoration: none;
+
+    margin-right: 54px;
+}
+
+.menu_link:nth-last-child(1) {
+    margin-right: 0px;
+}
+
+.menu_logo{
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.6px;
+
+    text-align: center;
+    padding-top: 87px;
+    padding-bottom: 30px;
+    
+}
+

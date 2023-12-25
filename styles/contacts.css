@@ -1,0 +1,56 @@
+.contacts {
+    width: 473px;
+    height: 217px;
+    margin: 186px 125px 160px;
+    position: relative;
+
+}
+
+h3 {
+
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.54px;
+
+    margin-bottom: 32px;
+    
+}
+
+h3:before {
+    content: '';
+    display: block;
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    background-image: url(/resources/ic_phone.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    top: -30px;
+    
+}
+.contacts_tel {
+    margin-bottom: 30px;
+ 
+}
+
+.tel {
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px; 
+    letter-spacing: -1.8px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.mail {
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -1.8px;
+    color: gainsboro;
+}
+

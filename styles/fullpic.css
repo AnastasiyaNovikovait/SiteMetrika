@@ -1,0 +1,35 @@
+.design_section {
+    position: relative;
+    height: 717px;
+    
+    background-image: url(/resources/Rectangle\ 10.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+
+    
+}
+
+.design_container{
+    position: absolute;
+    width: 443px;
+    height: 82px;
+
+    margin-top: 575px;
+    margin-left: 125px;
+    margin-right: 832px;
+    margin-bottom: 60px;
+    
+}
+
+p {
+    color: #FFF;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.9px;
+
+}
+
+

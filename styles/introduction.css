@@ -1,0 +1,53 @@
+body {
+    font-family: 'Manrope';
+    width: 1440px;
+}
+
+.introduction {
+    width: 1150px;
+    height: 650px;
+    margin: 74px auto 150px;
+    
+    
+}
+
+.introduction_title {
+    width: 956px;
+    height: 120px;
+
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -1.8px;
+
+    margin-bottom: 30px;
+    
+}
+
+.introduction_img {
+    position: relative;
+    width: 1150px;
+    height: 500px;
+    background-image: url(../resources/Kreslo.png);
+    background-repeat: no-repeat;
+}
+
+.introduction_text {
+    position: absolute;
+    width: 430px;
+    height: 81px;
+
+    font-family: Manrope;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    color: #FFF;
+
+    margin: 379px 40px ;
+    
+}
+
+
